@@ -29,7 +29,6 @@ The world population 2021 dataset contains data population, growth rate, desity,
 
 ## Results
 
-# Setting
 This code is run in the Spark standalone mode. The version of Scala is 2.12.12 and Spark is 3.0.0
 After running the code, all result is stored in **data/tatistic_olympic_2021.csv**. 
 Surprisingly, the country that has the best number of medals is San Mario just with a small population. It turns out that countries such as The US, China, or British did not get many medals with their big population.
