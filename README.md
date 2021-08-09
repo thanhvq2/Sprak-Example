@@ -1,4 +1,4 @@
-# Sprak-Example
+# Spark-Example
 
 This spark example code is used to calculate the number of people per each Olympic medal in 2021 by country. To this end, two dataset are utilized to get information about the total number of medals in recent Olympic Games as well as the current population by country.
 To join these table, both dataset contain ISO codename for countries.
